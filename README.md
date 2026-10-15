@@ -1,105 +1,68 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Kumar Thakur (Gravion)</h1>
-<h3 align="center">🔐 Cyber Security Analyst | AppSec Engineer | Penetration Tester</h3>
+## Hi 👋, I'm Priyanshu Kumar Thakur
 
-<p align="center">
-  <a href="https://gravionshieldx.com" target="_blank">🌐 Website</a> •
-  <a href="https://www.linkedin.com/in/priyanshu-kumar-thakur-4126443a4" target="_blank">LinkedIn</a> •
-  <a href="https://www.fiverr.com/s/vvLa1ND" target="_blank">Fiverr</a>
-</p>
+I work on **web application and API security** — building and breaking web services, then
+explaining the fix. My day-to-day focus is **OWASP Top 10** and **OWASP API Top 10**:
+finding authorization flaws (BOLA / IDOR), authentication and session-handling weaknesses,
+injection, and unsafe business logic, then writing reports that engineers can act on.
 
----
+I also work on the engineering side: small, focused security tools in **Node.js** and
+**Python** that I publish here so other security engineers can run them locally.
 
-## 🧑‍💻 About Me
+### 🔐 What I do
 
-I’m a **Security Engineer with 2+ years of hands-on experience** in web and API security, vulnerability assessment, and penetration testing.  
-I focus on **real-world risk reduction**, not just theoretical findings.
+- **Web application security assessment** — manual testing of OWASP Top 10 issues, with
+  reproducible evidence and remediation guidance.
+- **API security testing** — BOLA / cross-tenant detection, rate-limit probing, header and
+  TLS posture reviews.
+- **Secure code review** — review PRs and small services for access-control, session, and
+  injection flaws.
+- **Security automation** — small, dependency-light tools that integrate into engineering
+  workflows (header checks, TLS posture, log normalization).
+- **Reporting & triage** — structured findings in JSON + Markdown so engineering teams
+  can route work without re-formatting.
 
-I’ve worked on **live applications**, identifying and responsibly reporting **OWASP Top 10** vulnerabilities such as:
-- IDOR / BOLA  
-- XSS  
-- Authentication & Authorization flaws  
-- Business logic issues  
+### 🧰 Skills I can back with working code
 
-I bring a **security-first mindset**, think like an attacker, and collaborate effectively with developers to deliver **clear remediation guidance**.
+- **Web security:** OWASP Top 10 (IDOR / BOLA, XSS, broken auth & session, business-logic
+  flaws), header hygiene, TLS posture.
+- **API security:** OWASP API Top 10 (BOLA, broken auth, mass assignment, rate-limiting),
+  REST/JSON services.
+- **Tooling:** Node.js, Python, Bash; HTTP / TLS / JSON parsing; CI-friendly command-line
+  tools.
+- **Platform fundamentals:** Linux, networking, HTTP/HTTPS, JWT/OAuth concepts, basic
+  cloud IAM (AWS / Azure).
+- **Currently developing:** Active Directory attack-path concepts in a local lab,
+  detection-rule authoring against sample datasets, deeper Windows internals.
 
-📍 Location: India (Open to Remote / Hybrid – Delhi NCR)  
-🕒 Availability: Freelance & Full-time roles  
+### 📂 Featured repositories
 
----
+- **[webapp-security-toolkit](https://github.com/gravion-ux/webapp-security-toolkit)** —
+  authorized-only web/API security assessment toolkit. Header analysis, TLS posture,
+  scope enforcement, structured findings. 44-test suite, MIT licensed.
+- **[web-security-labs](https://github.com/gravion-ux/web-security-labs)** — four
+  OWASP-style labs (IDOR, XSS, broken-auth, logic-flaw), each with a vulnerable and a
+  secure variant and a 22-test regression suite. Loopback-only by design.
+- **[api-security-testing](https://github.com/gravion-ux/api-security-testing)** —
+  read-only BOLA / cross-tenant detector and a rate-limit probe, backed by a local mock
+  API for reproducible demos. 18-test suite.
+- **[security-automation-scripts](https://github.com/gravion-ux/security-automation-scripts)**
+  — small Node.js / Bash utilities: header analysis, TLS configuration check, log
+  parsing helpers.
+- **[llm-security-bot](https://github.com/gravion-ux/llm-security-bot)** — pattern-based
+  static analyzer for code, configs, and log lines, with optional LLM-assisted triage.
+- **[portfolio](https://github.com/gravion-ux/portfolio)** — current resume, services,
+  and writeups.
 
-## 🛡️ Core Security Skills
+### 🧪 How I work
 
-- Web Application Security (OWASP Top 10)
-- API Security Testing (OWASP API Top 10)
-- Vulnerability Assessment & Manual Penetration Testing
-- Burp Suite, API testing, request manipulation
-- Authentication / Authorization testing
-- Security reporting with impact & remediation
+1. Read the code path first, before running tools.
+2. Reproduce the bug with the smallest possible proof.
+3. Quantify the impact in business terms the engineer cares about.
+4. Write the fix as a code suggestion, not just an observation.
 
----
+### 📬 Get in touch
 
-## ⚙️ Technical Skills (Intermediate Level)
+- **GitHub:** [@gravion-ux](https://github.com/gravion-ux)
+- **LinkedIn:** [Priyanshu Kumar Thakur](https://www.linkedin.com/in/priyanshu-kumar-thakur-4126443a)
 
-- Python & JavaScript (production-ready code)
-- Automation & security testing scripts
-- System design (small to mid-scale)
-- Shell scripting & Linux
-- Git & version control
-- LLM-based tools, chatbots & prompt engineering
-- Security automation bots & tooling
-
----
-
-## 📂 Professional Repositories
-
-🔹 **web-security-labs**  
-Hands-on OWASP labs with vulnerable code, payloads & mitigations.
-
-🔹 **api-security-testing**  
-Automated API security testing scripts (BOLA / auth testing).
-
-🔹 **security-automation-scripts**  
-Recon, header analysis, SSL checks & validation tooling.
-
-🔹 **llm-security-bot**  
-AI-assisted security analysis for logs, code & configs.
-
-🔹 **portfolio**  
-Resume, services, and professional profile overview.
-
----
-
-## 🧪 Experience Highlights
-
-- Tested real-world web apps & APIs
-- Responsible vulnerability disclosure
-- Freelance security research & bug analysis
-- Manual QA & functional testing support
-- Documentation & reporting for clients
-
----
-
-## 🧰 Additional Roles I Can Support
-
-- Manual QA / Software Testing  
-- Data entry & documentation  
-- Customer support (remote – voice & non-voice)  
-- Automation scripting & tooling  
-- Website development & source-code writing  
-
----
-
-## 🎯 Open To Opportunities As
-
-- Cyber Security Analyst  
-- Security Engineer / AppSec Engineer  
-- Junior Security Analyst  
-- Freelance Security Consultant  
-
-📬 **Contact:**  
-📧 priyanshukumarthakur937@gmail.com  
-🌐 https://gravionshieldx.com  
-
----
-
-⭐ If you find my work useful, feel free to connect or collaborate!
+📍 India — open to **remote** and **hybrid** (Delhi NCR) roles.
