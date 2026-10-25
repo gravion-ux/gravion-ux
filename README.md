@@ -63,6 +63,6 @@ I also work on the engineering side: small, focused security tools in **Node.js*
 ### 📬 Get in touch
 
 - **GitHub:** [@gravion-ux](https://github.com/gravion-ux)
-- **LinkedIn:** [Priyanshu Kumar Thakur](https://www.linkedin.com/in/priyanshu-kumar-thakur-4126443a)
+- **LinkedIn:** [Priyanshu Kumar Thakur](https://www.linkedin.com/in/priyanshu-kumar-thakur-4126443a4)
 
 📍 India — open to **remote** and **hybrid** (Delhi NCR) roles.
