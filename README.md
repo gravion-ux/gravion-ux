@@ -101,6 +101,5 @@ projects I use.
 
 - **Email:** priyanshukumarthakur937@gmail.com
 - **LinkedIn:** [Priyanshu Kumar Thakur](https://www.linkedin.com/in/priyanshukumarthakur)
-- **Website:** https://gravionshieldx.com
 
 📍 India — open to **remote** and **hybrid** (Delhi NCR) roles.
