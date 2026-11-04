@@ -101,5 +101,6 @@ projects I use.
 
 - **Email:** priyanshukumarthakur937@gmail.com
 - **LinkedIn:** [Priyanshu Kumar Thakur](https://www.linkedin.com/in/priyanshukumarthakur)
+- **Fiverr:** [Priyanshu Kumar Thakur](https://www.fiverr.com/ig_priyanshu) — OWASP Top 10 & API security assessments
 
 📍 India — open to **remote** and **hybrid** (Delhi NCR) roles.
