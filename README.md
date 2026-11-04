@@ -72,7 +72,7 @@ projects I use.
 - **[gravion-harness](https://github.com/gravion-ux/gravion-harness)** — a scoped, auditable
   security-testing harness: every proposed step is checked against the engagement scope before it
   can run, and every decision lands in a hash-chained audit log. 127 tests.
-- **[gravion-context-bridge](https://github.com/gravion-ux/gravion-context-bridge)** — a VS Code
+- **[context-bridge](https://github.com/gravion-ux/context-bridge)** — a VS Code
   extension that writes privacy-conscious Markdown handoffs, with workspace containment and
   secret redaction built in. 66 tests; a 13-defect security audit is documented in the repo.
 - **[project-aegis](https://github.com/gravion-ux/project-aegis)** — multi-agent system core:
