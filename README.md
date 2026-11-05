@@ -79,6 +79,7 @@ projects I use.
   task lifecycle, persistent memory, provider abstraction, a default-deny tool registry, budgets
   and recovery. 294-test suite.
 
+- **[iamosaic](https://github.com/gravion-ux/iamosaic)** — offline cloud-IAM policy review and permission-relationship visualization data: parses normalized IAM policy JSON, flags wildcard actions and resources for review, emits relationship edges, and gives least-privilege remediation hints. Python 3.11+, zero runtime dependencies, MIT. 9-test suite.
 **Open-source collaboration**
 
 - **[xerj-ipv6-rate-limit-fix](https://github.com/gravion-ux/xerj-ipv6-rate-limit-fix)** — my
