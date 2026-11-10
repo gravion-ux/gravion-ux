@@ -53,7 +53,17 @@ projects I use.
   — small Node.js / Bash utilities: header analysis, TLS configuration check, log parsing
   helpers.
 - **[llm-security-bot](https://github.com/gravion-ux/llm-security-bot)** — pattern-based
-  static analyzer for code, configs, and log lines, with optional LLM-assisted triage.
+  static analyzer for code, configs, log lines and LLM input (prompts, tool inputs, retrieved
+  documents). Flags prompt injection, hardcoded secrets, unsafe shell construction and SQL built
+  by string concatenation. The core path is deterministic and calls no model API, so the output
+  is a triage list, not proof of exploitability.
+- **[TRISHUL](https://github.com/gravion-ux/TRISHUL)** — authorized-scope,
+  AI-powered security testing platform. An eight-stage pipeline (recon, scan, fuzz, detect,
+  verify, PoC, guide, report) drives real httpx, nuclei, ffuf and nmap binaries under a master
+  agent and nine specialist agents, with a multi-provider AI layer (Ollama, LM Studio, OpenAI,
+  Anthropic, Gemini, OpenAI-compatible). Authorization confirmation, scope gates, SSRF
+  protection and an AI policy boundary keep the model from widening scope or executing
+  commands. Python, MIT.
 
 **Developer tooling** — zero runtime dependencies, Node >= 18
 
@@ -69,6 +79,10 @@ projects I use.
 - **[local-slm-eval-kit](https://github.com/gravion-ux/local-slm-eval-kit)** — evaluates a local
   model against a fixed 10-task suite with 6 scorers and diffable reports, so a model swap is a
   measured decision instead of a guess. 113 tests.
+- **[gravion-trainner](https://github.com/gravion-ux/gravion-trainner)** — model quality
+  evaluation starter for OpenAI-compatible chat-completions endpoints, including compatible
+  local runtimes. Checks each response against a JSONL dataset and reports heuristic keyword
+  coverage as a smoke test, not a reasoning score. Python.
 - **[gravion-harness](https://github.com/gravion-ux/gravion-harness)** — a scoped, auditable
   security-testing harness: every proposed step is checked against the engagement scope before it
   can run, and every decision lands in a hash-chained audit log. 127 tests.
@@ -79,7 +93,8 @@ projects I use.
   task lifecycle, persistent memory, provider abstraction, a default-deny tool registry, budgets
   and recovery. 294-test suite.
 
-- **[iamosaic](https://github.com/gravion-ux/iamosaic)** — offline cloud-IAM policy review and permission-relationship visualization data: parses normalized IAM policy JSON, flags wildcard actions and resources for review, emits relationship edges, and gives least-privilege remediation hints. Python 3.11+, zero runtime dependencies, MIT. 9-test suite.
+- **[iamosiac](https://github.com/gravion-ux/iamosiac)** — offline cloud-IAM policy review and permission-relationship visualization data: parses normalized IAM policy JSON, flags wildcard actions and resources for review, emits relationship edges, and gives least-privilege remediation hints. Python 3.11+, zero runtime dependencies, MIT. 9-test suite.
+
 **Open-source collaboration**
 
 - **[xerj-ipv6-rate-limit-fix](https://github.com/gravion-ux/xerj-ipv6-rate-limit-fix)** — my
