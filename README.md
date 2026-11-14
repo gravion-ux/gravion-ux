@@ -24,6 +24,16 @@ was measured.
 
 ---
 
+### 🤝 Sponsors
+
+Sponsorship is what keeps these tools free and free of telemetry. Sponsor names are listed
+here, and in the three flagship READMEs, as sponsors join.
+
+**[Sponsor on GitHub](https://github.com/sponsors/gravion-ux)** — recurring tiers from
+**$5** a month, plus one-time tiers that fund a specific bug, feature or release.
+
+---
+
 ### 📊 The work, measured
 
 | | |
