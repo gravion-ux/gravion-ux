@@ -19,7 +19,7 @@ open-source tooling that stops it happening twice.
 Sponsorship pays for the work nobody sees: issue triage, CI maintenance, dependency
 review of my own tools, and the next release. That is what keeps the tools free and
 free of telemetry, whether or not anyone sponsors. All 30 published projects carry
-the MIT licence. 22 of them run a CI workflow, and 28 have a test suite whose size
+the MIT licence. 23 of them run a CI workflow, and 28 have a test suite whose size
 was measured.
 
 ---
