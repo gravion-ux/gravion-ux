@@ -8,7 +8,7 @@
 
 I hunt vulnerabilities in web applications, APIs and WordPress — business logic, IDOR, broken auth, payment flaws — prove each one in the lab, and report it responsibly, with proof.
 
-🌐 [Portfolio](https://gravion-ux.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) · 🛠️ [Fiverr](https://www.fiverr.com/ig_priyanshu)
+🌐 [Portfolio](https://gravion-ux.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) · 🛠️ [Fiverr](https://www.fiverr.com/ig_priyanshu) · 📸 [Instagram](https://www.instagram.com/_ogthakur)
 
 ---
 
@@ -106,6 +106,7 @@ Responsible reporting       █████████████████�
 | 🌐 Website | [gravion-ux.github.io/portfolio](https://gravion-ux.github.io/portfolio/) |
 | ✉️ Email | priyanshukumarthakur937@gmail.com |
 | 💼 LinkedIn | [priyanshukumarthakur](https://www.linkedin.com/in/priyanshukumarthakur) |
+| 📸 Instagram | [@_ogthakur](https://www.instagram.com/_ogthakur) |
 | 💻 GitHub | [@gravion-ux](https://github.com/gravion-ux) |
 
 ---
