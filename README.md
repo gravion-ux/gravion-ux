@@ -1,58 +1,113 @@
-# Priyanshu Kumar Thakur — "Gravion"
+<img src="hero-banner.png" alt="GRAVION — Security Researcher & Bug Bounty Hunter" width="100%"/>
 
-**Security Engineer · Exploit Developer · Red Teamer · AI/LLM Security**
+<img src="avatar.png" alt="Priyanshu Kumar Thakur" width="90" align="left"/>
 
-I find the flaw in web applications, APIs, and LLM systems — then I build the open-source tooling that stops it happening twice. Everything below is MIT-licensed, measured, and free of telemetry.
+### PRIYANSHU KUMAR THAKUR
 
-📍 Delhi NCR, India — open to remote & hybrid roles · [Portfolio](https://gravion-ux.github.io/portfolio) · [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) · [Fiverr](https://www.fiverr.com/ig_priyanshu) · [Sponsor](https://github.com/sponsors/gravion-ux)
+**Security Researcher · Exploit Developer · Red Teamer · AI/LLM Security**
+
+I hunt vulnerabilities in web applications, APIs and WordPress — business logic, IDOR, broken auth, payment flaws — prove each one in the lab, and report it responsibly, with proof.
+
+🌐 [Portfolio](https://gravion-ux.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) · 🛠️ [Fiverr](https://www.fiverr.com/ig_priyanshu)
 
 ---
 
-## 🏆 Proof, not promises
+### 01 / FROM THOUGHT TO THING
 
-- **Upstream contributor** — merged PRs into [xerj-org/xerj](https://github.com/xerj-org/xerj) (fixed the Corpus Hub rate limiter to bucket compressed IPv6 addresses by /64 — [xerj#2872](https://github.com/xerj-org/xerj/pull/2872))
-- **34 open-source security projects**, all MIT · **2,300+ measured tests** · CI on the flagships
-- **Bug bounty researcher** — WordPress ecosystem (Patchstack program), local-lab verified findings only
-- Flagship **IAMosaic** — 11★, offline cloud-IAM policy review & permission-graph analysis
+```
+$ hunt()
 
-## 🚩 New flagships (Nov 2026)
+scope → read → test → report
+```
 
-| Project | Track | What it does |
-|---|---|---|
-| [wp-cve-hunter](https://github.com/gravion-ux/wp-cve-hunter) | Exploit dev / Red team | Fingerprints WordPress plugin & theme versions and matches them against known CVEs — prioritized Markdown/JSON reports, offline inventory mode, authorized-use enforced |
-| [llm-redteam-kit](https://github.com/gravion-ux/llm-redteam-kit) | AI/LLM engineering | OWASP LLM Top 10 regression harness — prompt-injection, jailbreak & exfiltration probes with attack-success-rate scoring and a CI gate |
-| [mcp-shield](https://github.com/gravion-ux/mcp-shield) | AI security | Audits MCP server configs & tool definitions — tool-poisoning detection, secret & permission review, rug-pull hash-pinning |
-| [jwt-auditor](https://github.com/gravion-ux/jwt-auditor) | Red team / Auth security | Audits JSON Web Tokens — alg=none, weak-secret dictionary attack, kid injection & parser differentials, sensitive-claim review, risk-scored reports |
+**THINK** — Read the code. Map the logic. Find where trust is assumed.
+**EXECUTE** — Test it in the lab. Reproduce it, cleanly.
+**BUILD** — Report it responsibly, with proof.
 
-## 🔐 What I do
+- Business-logic flaws
+- IDOR & broken access control
+- Auth bypass
+- Payment & checkout flaws
 
-- **Web & API security assessment** — OWASP Top 10 / API Top 10, BOLA & cross-tenant access control, rate-limit & auth probing
-- **Exploit development & vulnerability research** — reproduce, prove impact with the smallest PoC, write the fix
-- **AI/LLM security** — prompt-injection testing, agent skill & memory auditing, MCP server review, LLM eval harnesses
-- **Security automation** — scanners, triage pipelines, detection-rule benchmarking (Sigma / MITRE ATT&CK)
-- **Secure code review & threat modelling**
+### 02 / LIFE OUTSIDE THE COMMIT
 
-## 🧰 Selected open-source work
+<img src="avatar.png" alt="Priyanshu Kumar Thakur" width="90"/>
 
-**Red team & detection** — [fixqueue](https://github.com/gravion-ux/fixqueue) (scanner-output dedup + EPSS/KEV prioritization, 129 tests) · [rulebench](https://github.com/gravion-ux/rulebench) (Sigma conformance + ATT&CK coverage, 187 tests) · [opsledger](https://github.com/gravion-ux/opsledger) (tamper-evident red-team evidence ledger, 115 tests) · [secret-sniper](https://github.com/gravion-ux/secret-sniper) · [fuzzharbor](https://github.com/gravion-ux/fuzzharbor) · [violet-trace](https://github.com/gravion-ux/violet-trace)
+1. **AI cinematic video tutorials** — voiceover-driven tutorials; every tool taught step by step.
+2. **Building GRAVION AI** — a modular AI platform startups build on, made piece by piece.
+3. **Building security tools** — open-source tools and a portfolio the community can actually use.
 
-**AI / agent security** — [skill-supply-chain-auditor](https://github.com/gravion-ux/skill-supply-chain-auditor) (125 tests) · [gravion-harness](https://github.com/gravion-ux/gravion-harness) (127 tests) · [memorytrust](https://github.com/gravion-ux/memorytrust) · [preference-data-doctor](https://github.com/gravion-ux/preference-data-doctor) · [local-slm-eval-kit](https://github.com/gravion-ux/local-slm-eval-kit) · [llm-security-bot](https://github.com/gravion-ux/llm-security-bot)
+**BELIEF** — Proof, not promises: if it isn't reproduced and measured, it isn't claimed.
 
-**Assessment & automation** — [TRISHUL](https://github.com/gravion-ux/TRISHUL) · [webapp-security-toolkit](https://github.com/gravion-ux/webapp-security-toolkit) · [web-security-labs](https://github.com/gravion-ux/web-security-labs) · [api-security-testing](https://github.com/gravion-ux/api-security-testing) · [aegis](https://github.com/gravion-ux/aegis)
+---
 
-## 🧪 How I work
+<img src="banner-strip.svg" alt="PROOF, NOT PROMISES." width="100%"/>
 
-1. Read the code path first — no black-box guessing
-2. Reproduce with the smallest possible proof
-3. Quantify impact in business terms
-4. Ship the fix as a code suggestion, not just a report
-5. Measure before/after — and quote only numbers a command produced
+---
 
-## 💼 Work with me
+## 03 / MY ONLINE ROOM
 
-- Web / API security assessments — from $500
-- Secure code review & threat modelling — from $300
-- Security automation builds — from $800
-- Scope agreed in writing before any testing. Sponsors keep the tools free: [github.com/sponsors/gravion-ux](https://github.com/sponsors/gravion-ux)
+<img src="orbit-diagram.png" alt="Tech orbit — WordPress, Bug Bounty, Python, Linux, AI Security, Burp Suite" width="100%"/>
 
-**Currently open to:** Security Engineer / Red Team / AI Security roles (remote or Delhi NCR hybrid) and freelance assessments.
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0A0E1A?style=for-the-badge&logo=python&logoColor=3776AB) ![PHP](https://img.shields.io/badge/PHP-0A0E1A?style=for-the-badge&logo=php&logoColor=777BB4) ![JavaScript](https://img.shields.io/badge/JavaScript-0A0E1A?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-0A0E1A?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0A0E1A?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+**Frontend & Runtime**
+
+![WordPress](https://img.shields.io/badge/WordPress-0A0E1A?style=for-the-badge&logo=wordpress&logoColor=21759B) ![Linux](https://img.shields.io/badge/Linux-0A0E1A?style=for-the-badge&logo=linux&logoColor=FCC624) ![Git](https://img.shields.io/badge/Git-0A0E1A?style=for-the-badge&logo=git&logoColor=F05032) ![Terminal](https://img.shields.io/badge/Terminal-0A0E1A?style=for-the-badge&logo=gnometerminal&logoColor=FFFFFF)
+
+**Backend, Cloud & AI**
+
+![MySQL](https://img.shields.io/badge/MySQL-0A0E1A?style=for-the-badge&logo=mysql&logoColor=4479A1) ![WP-CLI](https://img.shields.io/badge/WP--CLI-0A0E1A?style=for-the-badge&logoColor=2EE6A8) ![GitHub](https://img.shields.io/badge/GitHub-0A0E1A?style=for-the-badge&logo=github&logoColor=FFFFFF) ![AI Tools](https://img.shields.io/badge/AI_Tools-0A0E1A?style=for-the-badge&logoColor=2EE6A8)
+
+---
+
+## THINGS I'VE BUILT
+
+| Project | What it does | Focus |
+| --- | --- | --- |
+| [wp-cve-hunter](https://github.com/gravion-ux/wp-cve-hunter) | WordPress CVE fingerprinting — prioritised Markdown/JSON reports | Python · WordPress security |
+| [llm-redteam-kit](https://github.com/gravion-ux/llm-redteam-kit) | OWASP LLM Top 10 regression harness with a CI gate | AI / LLM security |
+| [gravion-ai](https://github.com/gravion-ux/gravion-ai) | Modular AI platform with cryptographic licensing | AI platform |
+
+---
+
+## REAL WORK. REAL IMPACT.
+
+<img src="builder-pass.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Security Researcher, 34 open-source tools, 2,300+ tests, Patchstack · HackerOne · Bugcrowd" width="100%"/>
+
+| 34 | 2,300+ | 03 |
+| --- | --- | --- |
+| **OPEN-SOURCE TOOLS** — all MIT licensed | **MEASURED TESTS** — across the flagships | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
+
+- **Upstream contributor** — merged PRs into [xerj-org/xerj](https://github.com/xerj-org/xerj), open-source security tooling.
+- **Bug bounty researcher** — WordPress ecosystem; every finding lab-verified and deduped before it is reported.
+
+**CORE CRAFT**
+
+```
+WordPress plugin audit      ████████████████████
+IDOR & access control       ████████████████████
+Business-logic flaws        ████████████████████
+Responsible reporting       ████████████████████
+```
+
+*Bars mark focus areas, not scores.*
+
+---
+
+## LET'S CONNECT.
+
+### BUILD SOMETHING GREAT.
+
+|  |  |
+| --- | --- |
+| 🌐 Website | [gravion-ux.github.io/portfolio](https://gravion-ux.github.io/portfolio/) |
+| ✉️ Email | priyanshukumarthakur937@gmail.com |
+| 💼 LinkedIn | [priyanshukumarthakur](https://www.linkedin.com/in/priyanshukumarthakur) |
+| 💻 GitHub | [@gravion-ux](https://github.com/gravion-ux) |
+
+---
+
+*Proof, not promises.*
