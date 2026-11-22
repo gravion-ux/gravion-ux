@@ -8,7 +8,9 @@
 
 I hunt vulnerabilities in web applications, APIs and WordPress — business logic, IDOR, broken auth, payment flaws — prove each one in the lab, and report it responsibly, with proof.
 
-🌐 [Portfolio](https://gravion-ux.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) · 🛠️ [Fiverr](https://www.fiverr.com/ig_priyanshu) · 📸 [Instagram](https://www.instagram.com/_ogthakur)
+🌐 [Portfolio](https://gravion-ux.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) · 🛠️ [Fiverr](https://www.fiverr.com/ig_priyanshu)
+
+<img src="builder-pass.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Security Researcher, 35 open-source tools, 2,300+ tests, Patchstack · HackerOne · Bugcrowd" width="100%"/>
 
 ---
 
@@ -75,9 +77,7 @@ scope → read → test → report
 
 ## REAL WORK. REAL IMPACT.
 
-<img src="builder-pass.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Security Researcher, 34 open-source tools, 2,300+ tests, Patchstack · HackerOne · Bugcrowd" width="100%"/>
-
-| 34 | 2,300+ | 03 |
+| 35 | 2,300+ | 03 |
 | --- | --- | --- |
 | **OPEN-SOURCE TOOLS** — all MIT licensed | **MEASURED TESTS** — across the flagships | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
 
@@ -106,7 +106,6 @@ Responsible reporting       █████████████████�
 | 🌐 Website | [gravion-ux.github.io/portfolio](https://gravion-ux.github.io/portfolio/) |
 | ✉️ Email | priyanshukumarthakur937@gmail.com |
 | 💼 LinkedIn | [priyanshukumarthakur](https://www.linkedin.com/in/priyanshukumarthakur) |
-| 📸 Instagram | [@_ogthakur](https://www.instagram.com/_ogthakur) |
 | 💻 GitHub | [@gravion-ux](https://github.com/gravion-ux) |
 
 ---
