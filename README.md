@@ -1,4 +1,4 @@
-<img src="hero-banner.png" alt="GRAVION — Security Researcher & Bug Bounty Hunter" width="100%"/>
+<img src="hero-banner-v2.png" alt="GRAVION — Security Researcher & Bug Bounty Hunter" width="100%"/>
 
 <img src="avatar.png" alt="Priyanshu Kumar Thakur" width="90" align="left"/>
 
@@ -10,7 +10,7 @@ I hunt vulnerabilities in web applications, APIs and WordPress — business logi
 
 🌐 [Portfolio](https://gravion-ux.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) · 🛠️ [Fiverr](https://www.fiverr.com/ig_priyanshu)
 
-<img src="builder-pass.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Security Researcher, 35 open-source tools, 2,300+ tests, Patchstack · HackerOne · Bugcrowd" width="100%"/>
+<img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Security Researcher, 35 open-source tools, 2,300+ tests, Patchstack · HackerOne · Bugcrowd" width="100%"/>
 
 ---
 
