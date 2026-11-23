@@ -8,9 +8,9 @@
 
 I hunt vulnerabilities in web applications, APIs and WordPress — business logic, IDOR, broken auth, payment flaws — prove each one in the lab, and report it responsibly, with proof.
 
-🌐 [Portfolio](https://gravion-ux.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) · 🛠️ [Fiverr](https://www.fiverr.com/ig_priyanshu)
+🌐 [Portfolio](https://gravion-ux.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) · 🛠️ [Fiverr](https://www.fiverr.com/ig_priyanshu) · ⭐ [GitHub Sponsors](https://github.com/sponsors/gravion-ux)
 
-<img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Security Researcher, 35 open-source tools, 2,300+ tests, Patchstack · HackerOne · Bugcrowd" width="100%"/>
+<img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Security Researcher, 38 open-source tools, 3,364 measured tests, Patchstack · HackerOne · Bugcrowd" width="100%"/>
 
 ---
 
@@ -77,9 +77,9 @@ scope → read → test → report
 
 ## REAL WORK. REAL IMPACT.
 
-| 35 | 2,300+ | 03 |
+| 38 | 3,364 | 03 |
 | --- | --- | --- |
-| **OPEN-SOURCE TOOLS** — all MIT licensed | **MEASURED TESTS** — across the flagships | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
+| **OPEN-SOURCE TOOLS** — 38 of 38 MIT licensed | **MEASURED TESTS** — across all 38 repos | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
 
 - **Upstream contributor** — merged PRs into [xerj-org/xerj](https://github.com/xerj-org/xerj), open-source security tooling.
 - **Bug bounty researcher** — WordPress ecosystem; every finding lab-verified and deduped before it is reported.
@@ -94,6 +94,27 @@ Responsible reporting       █████████████████�
 ```
 
 *Bars mark focus areas, not scores.*
+
+---
+
+## 04 / SUPPORT THE BUILD
+
+Everything here is MIT licensed — 38 of 38 tools, each with its own measured
+test suite. If one saved you time in your own lab, a contribution keeps the
+suites green and the releases coming.
+
+**Monthly** — Supporter $5 · Backer $10 · Sponsor $25 · Pro Sponsor $50 · Security Partner $100 · Anchor $500 · Executive $1,000
+
+**One-time** — One-time Backer $25 · One-time Sponsor $50 · Fix a bug $50 · Fund a feature $250 · Fund a release $1,000 · Fund a roadmap quarter $2,500
+
+Monthly tiers from $5, one-time tiers from $25. Custom amounts start at $5, with $25 recommended.
+
+⭐ [Sponsor the build on GitHub](https://github.com/sponsors/gravion-ux)
+
+### Supporters
+
+Contributions are credited here by name. The list is empty until the first
+sponsorship lands, and it grows from there.
 
 ---
 
