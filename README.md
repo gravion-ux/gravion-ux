@@ -4,13 +4,13 @@
 
 ### PRIYANSHU KUMAR THAKUR
 
-**Security Researcher · Exploit Developer · Red Teamer · AI/LLM Security**
+**Application Security & LLM Security Researcher**
 
-I hunt vulnerabilities in web applications, APIs and WordPress — business logic, IDOR, broken auth, payment flaws — prove each one in the lab, and report it responsibly, with proof.
+Bug bounty hunter working web, API and WordPress flaws — IDOR, broken access control, business logic — and AI/LLM red teaming. Every finding is proved in the lab and reported responsibly, with proof.
 
 🌐 [Portfolio](https://gravion-ux.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) · 🛠️ [Fiverr](https://www.fiverr.com/ig_priyanshu) · ⭐ [GitHub Sponsors](https://github.com/sponsors/gravion-ux)
 
-<img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Security Researcher, 38 open-source tools, 3,364 measured tests, Patchstack · HackerOne · Bugcrowd" width="100%"/>
+<img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Application Security & LLM Security Researcher, Patchstack · HackerOne · Bugcrowd" width="100%"/>
 
 ---
 
@@ -65,21 +65,28 @@ scope → read → test → report
 
 ---
 
-## THINGS I'VE BUILT
+## FLAGSHIP WORK
 
-| Project | What it does | Focus |
-| --- | --- | --- |
-| [wp-cve-hunter](https://github.com/gravion-ux/wp-cve-hunter) | WordPress CVE fingerprinting — prioritised Markdown/JSON reports | Python · WordPress security |
-| [llm-redteam-kit](https://github.com/gravion-ux/llm-redteam-kit) | OWASP LLM Top 10 regression harness with a CI gate | AI / LLM security |
-| [gravion-ai](https://github.com/gravion-ux/gravion-ai) | Modular AI platform with cryptographic licensing | AI platform |
+Six projects carry the portfolio. Each one exists because a real assessment kept hitting the same problem.
+
+| Project | The problem it solves |
+| --- | --- |
+| [llm-redteam-kit](https://github.com/gravion-ux/llm-redteam-kit) | LLM regressions ship silently — this runs an OWASP LLM Top 10 probe pack as a CI gate, so a prompt or model change that reopens an injection hole fails the build instead of reaching users. |
+| [mcp-shield](https://github.com/gravion-ux/mcp-shield) | Agent setups trust MCP servers blindly — this audits their configuration and tool definitions first, catching poisoned tool descriptions, hidden instructions and over-broad access before the server ever runs. |
+| [jwt-auditor](https://github.com/gravion-ux/jwt-auditor) | The JWT flaws behind real account takeovers — `alg=none`, weak secrets, key-injection headers — checked fully offline, with a scored report a team can act on. |
+| [wp-cve-hunter](https://github.com/gravion-ux/wp-cve-hunter) | WordPress owners can't tell which disclosed CVEs actually apply to their site — read-only fingerprinting matched against real vulnerability data, prioritised by CVSS. |
+| [gravion-ai](https://github.com/gravion-ux/gravion-ai) | Small teams shipping AI products bolt licensing on last, or never — a modular platform (chat, code, image, music, video) with cryptographic licensing and tiering built into the core. |
+| [aegis](https://github.com/gravion-ux/aegis) | Agentic testing drifts out of scope when limits live in prompts — a chief agent decomposes missions for specialist sub-agents and refuses out-of-scope work in code, with a tamper-evident audit log. |
+
+**How the toolkit fits together** — the tools form one pipeline. **Hunt:** fingerprint and probe the target (wp-cve-hunter, jwt-auditor, llm-redteam-kit, mcp-shield). **Verify:** reproduce each finding under enforced scope, with an audit trail, before believing it (gravion-harness, aegis). **Report:** every tool emits scored, prioritised, remediation-ready output by default — the same discipline my bounty reports follow. gravion-ai applies that discipline to building AI products instead of breaking them.
 
 ---
 
 ## REAL WORK. REAL IMPACT.
 
-| 38 | 3,364 | 03 |
+| 44 | 932+ | 03 |
 | --- | --- | --- |
-| **OPEN-SOURCE TOOLS** — 38 of 38 MIT licensed | **MEASURED TESTS** — across all 38 repos | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
+| **PUBLIC REPOSITORIES** — every original tool MIT licensed | **MEASURED TESTS** — across the eight flagship codebases | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
 
 - **Upstream contributor** — merged PRs into [xerj-org/xerj](https://github.com/xerj-org/xerj), open-source security tooling.
 - **Bug bounty researcher** — WordPress ecosystem; every finding lab-verified and deduped before it is reported.
@@ -111,7 +118,7 @@ Responsible reporting       █████████████████�
 
 ## 04 / SUPPORT THE BUILD
 
-Everything here is MIT licensed — 38 of 38 tools, each with its own measured test suite. If one saved you time in your own lab, a contribution keeps the suites green and the releases coming.
+Everything here is MIT licensed — every original tool, each with its own measured test suite. If one saved you time in your own lab, a contribution keeps the suites green and the releases coming. Sponsors also keep the work independent: see the [support page on my portfolio](https://gravion-ux.github.io/portfolio/) for other ways to contribute.
 
 **Monthly** — Supporter $5 · Backer $10 · Sponsor $25 · Pro Sponsor $50 · Security Partner $100 · Anchor $500 · Executive $1,000
 
