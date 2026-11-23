@@ -97,11 +97,21 @@ Responsible reporting       █████████████████�
 
 ---
 
+## GITHUB AT A GLANCE
+
+<img src="https://github-readme-stats.vercel.app/api?username=gravion-ux&show_icons=true&bg_color=0A0E1A&title_color=F85149&text_color=C9D1D9&icon_color=F85149&ring_color=F85149&border_color=30363D" alt="GitHub stats for @gravion-ux"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gravion-ux&layout=compact&bg_color=0A0E1A&title_color=F85149&text_color=C9D1D9&border_color=30363D" alt="Top languages for @gravion-ux"/>
+
+<img src="https://streak-stats.demolab.com/?user=gravion-ux&background=0A0E1A&stroke=30363D&ring=F85149&fire=F85149&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85149&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak stats for @gravion-ux"/>
+
+<img src="https://raw.githubusercontent.com/gravion-ux/gravion-ux/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+
+---
+
 ## 04 / SUPPORT THE BUILD
 
-Everything here is MIT licensed — 38 of 38 tools, each with its own measured
-test suite. If one saved you time in your own lab, a contribution keeps the
-suites green and the releases coming.
+Everything here is MIT licensed — 38 of 38 tools, each with its own measured test suite. If one saved you time in your own lab, a contribution keeps the suites green and the releases coming.
 
 **Monthly** — Supporter $5 · Backer $10 · Sponsor $25 · Pro Sponsor $50 · Security Partner $100 · Anchor $500 · Executive $1,000
 
@@ -113,8 +123,7 @@ Monthly tiers from $5, one-time tiers from $25. Custom amounts start at $5, with
 
 ### Supporters
 
-Contributions are credited here by name. The list is empty until the first
-sponsorship lands, and it grows from there.
+Contributions are credited here by name. The list is empty until the first sponsorship lands, and it grows from there.
 
 ---
 
