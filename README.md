@@ -10,7 +10,7 @@ I hunt vulnerabilities in web applications, APIs and WordPress — business logi
 
 🌐 [Portfolio](https://gravion-ux.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) · 🛠️ [Fiverr](https://www.fiverr.com/ig_priyanshu)
 
-<img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Security Researcher, 35 open-source tools, 2,300+ tests, Patchstack · HackerOne · Bugcrowd" width="100%"/>
+<img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Security Researcher, 36 open-source projects, 2,455 tests, Patchstack · HackerOne · Bugcrowd" width="100%"/>
 
 ---
 
@@ -69,17 +69,20 @@ scope → read → test → report
 
 | Project | What it does | Focus |
 | --- | --- | --- |
-| [wp-cve-hunter](https://github.com/gravion-ux/wp-cve-hunter) | WordPress CVE fingerprinting — prioritised Markdown/JSON reports | Python · WordPress security |
-| [llm-redteam-kit](https://github.com/gravion-ux/llm-redteam-kit) | OWASP LLM Top 10 regression harness with a CI gate | AI / LLM security |
-| [gravion-ai](https://github.com/gravion-ux/gravion-ai) | Modular AI platform with cryptographic licensing | AI platform |
+| [iamosiac](https://github.com/gravion-ux/iamosiac) | Offline cloud-IAM policy review and permission-relationship visualization data, with least-privilege remediation hints. | Cloud IAM security |
+| [wp-cve-hunter](https://github.com/gravion-ux/wp-cve-hunter) | WordPress plugin and theme version fingerprinter with CVE matching - prioritised vulnerability reports for authorised testing. Offline inventory mode, zero dependencies. | Python · WordPress security |
+| [llm-redteam-kit](https://github.com/gravion-ux/llm-redteam-kit) | A zero-dependency CI gate for LLM red-teaming: curated OWASP-LLM-2025 probe packs, heuristic scoring and an offline mock mode. | AI / LLM security |
+| [mcp-shield](https://github.com/gravion-ux/mcp-shield) | Security auditor for MCP server configs: tool-poisoning detection, secret and over-broad-grant review, and rug-pull drift detection against a SHA-256 baseline. Zero dependencies. | MCP · AI security |
+| [jwt-auditor](https://github.com/gravion-ux/jwt-auditor) | JWT security auditor: alg=none, embedded key material, weak-secret dictionary attack, kid injection, parser differentials - a prioritised report with a 0-100 risk score. | JWT · API security |
+| [gravion-ai](https://github.com/gravion-ux/gravion-ai) | Gravion AI - a modular AI platform startups build on: many AI types and an all-in-one package, four readiness tiers, a signed licensing layer, and a choice of your own endpoint or a fully offline engine. | AI platform |
 
 ---
 
 ## REAL WORK. REAL IMPACT.
 
-| 35 | 2,300+ | 03 |
+| 36 | 2,455 | 03 |
 | --- | --- | --- |
-| **OPEN-SOURCE TOOLS** — all MIT licensed | **MEASURED TESTS** — across the flagships | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
+| **OPEN-SOURCE PROJECTS** — all MIT licensed | **MEASURED TESTS** — across 34 repositories | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
 
 - **Upstream contributor** — merged PRs into [xerj-org/xerj](https://github.com/xerj-org/xerj), open-source security tooling.
 - **Bug bounty researcher** — WordPress ecosystem; every finding lab-verified and deduped before it is reported.
@@ -109,5 +112,17 @@ Responsible reporting       █████████████████�
 | 💻 GitHub | [@gravion-ux](https://github.com/gravion-ux) |
 
 ---
+
+## SUPPORT
+
+Sponsorship pays for the maintenance, triage and release time behind the tools. Sponsors are
+listed here by name, and name placement starts at the $5 a month Supporter tier or the $25
+one-time Backer tier.
+
+### Supporters
+
+Sponsors are listed here by name as soon as they appear.
+
+[Sponsor on GitHub](https://github.com/sponsors/gravion-ux)
 
 *Proof, not promises.*
