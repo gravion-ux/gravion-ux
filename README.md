@@ -8,7 +8,7 @@
 
 Bug bounty hunter working web, API and WordPress flaws — IDOR, broken access control, business logic — and AI/LLM red teaming. Every finding is proved in the lab and reported responsibly, with proof.
 
-🌐 [Portfolio](https://gravion-ux.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) · 🛠️ [Fiverr](https://www.fiverr.com/ig_priyanshu) · ⭐ [GitHub Sponsors](https://github.com/sponsors/gravion-ux)
+🌐 [Portfolio](https://gravion-ux.github.io/portfolio/) · 📄 [Resume](https://gravion-ux.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) · 🛠️ [Fiverr](https://www.fiverr.com/ig_priyanshu) · ⭐ [GitHub Sponsors](https://github.com/sponsors/gravion-ux)
 
 > **Open to opportunities** — Penetration Tester / Application Security / Security Analyst roles (remote preferred, Delhi NCR) and freelance security-testing engagements: web, API, WordPress and AI-chatbot assessments. Reach me on [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) or via [Fiverr](https://www.fiverr.com/ig_priyanshu).
 
@@ -84,9 +84,39 @@ Six projects carry the portfolio. Each one exists because a real assessment kept
 
 ---
 
+## CASE STUDIES
+
+Short version of four pieces of work — the problem, what I did, and the outcome that can be checked.
+
+### 1. wp-cve-hunter — fingerprinting that tells owners which CVEs actually apply
+
+**Problem.** WordPress site owners see hundreds of disclosed plugin CVEs and cannot tell which ones touch their install; generic scanners guess versions and cry wolf.
+**What I built.** [wp-cve-hunter](https://github.com/gravion-ux/wp-cve-hunter) — read-only fingerprinting matched against real vulnerability data, prioritised by CVSS, so the output is a short list of what to patch first instead of a wall of noise.
+**Outcome.** The project took its first external contribution: PR #5 from kanna857, adding a dataset entry for the UpdraftPlus CVE-2022-0633, reviewed and merged on 22 Nov 2026 — outside validation that the data format is usable by people other than its author.
+
+### 2. llm-redteam-kit — an OWASP LLM Top 10 probe pack that runs as a CI gate
+
+**Problem.** LLM apps regress silently: a prompt tweak or model swap reopens an injection hole and nobody notices until a user does.
+**What I built.** [llm-redteam-kit](https://github.com/gravion-ux/llm-redteam-kit) — a curated probe pack with transparent scoring that runs in CI, so a change that reopens a hole fails the build. The suite is green locally (46 tests) and the pack stays in sync with the released version.
+**Outcome.** A second external contributor, Ajay (AJaysAIk), extended the pack itself: PR #6 added probes pi-007 and pi-008, reviewed and merged on 22 Nov 2026.
+
+### 3. GRAVION AI — a modular AI platform with licensing in the core, shipped early
+
+**Problem.** Small teams shipping AI products bolt licensing and tiering on last, or never — and it shows up later as a rewrite.
+**What I built.** [gravion-ai](https://github.com/gravion-ux/gravion-ai) — a modular platform (chat, code, image, music, video) with cryptographic licensing and tiering built into the core rather than layered over it.
+**Outcome.** v0.11.0 shipped on 24 Nov 2026, a day ahead of its 25 Nov deadline, with the full suite green: 385 of 385 tests passing.
+
+### 4. Upstream fix — IPv6 rate-limit bucketing in xerj
+
+**Problem.** The Corpus Hub rate limiter in [xerj-org/xerj](https://github.com/xerj-org/xerj) keyed limits per compressed IPv6 address, so an attacker holding a standard /64 allocation could rotate through effectively unlimited buckets.
+**What I did.** Fixed the limiter to bucket compressed IPv6 addresses by their /64 prefix, with the change kept small enough to review in one sitting.
+**Outcome.** Merged upstream as [xerj-org/xerj#2872](https://github.com/xerj-org/xerj/pull/2872) on 17 Nov 2026 — my fix, in someone else's production codebase, under their review process.
+
+---
+
 ## REAL WORK. REAL IMPACT.
 
-| 46 | 932+ | 03 |
+| 49 | 932+ | 03 |
 | --- | --- | --- |
 | **PUBLIC REPOSITORIES** — every original tool MIT licensed | **MEASURED TESTS** — across the eight flagship codebases | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
 
