@@ -8,11 +8,27 @@
 
 Bug bounty hunter working web, API and WordPress flaws — IDOR, broken access control, business logic — and AI/LLM red teaming. Every finding is proved in the lab and reported responsibly, with proof.
 
-🌐 [Portfolio](https://gravion-ux.github.io/portfolio/) · 📄 [Resume](https://gravion-ux.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) · 🛠️ [Fiverr](https://www.fiverr.com/ig_priyanshu) · ⭐ [GitHub Sponsors](https://github.com/sponsors/gravion-ux)
+🌐 [Portfolio](https://gravion-ux.github.io/portfolio/) · 📄 [Resume (PDF)](https://github.com/gravion-ux/gravion-ux/blob/main/resume.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) · 🛠️ [Fiverr](https://www.fiverr.com/ig_priyanshu) · ⭐ [GitHub Sponsors](https://github.com/sponsors/gravion-ux)
 
 > **Open to opportunities** — Penetration Tester / Application Security / Security Analyst roles (remote preferred, Delhi NCR) and freelance security-testing engagements: web, API, WordPress and AI-chatbot assessments. Reach me on [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) or via [Fiverr](https://www.fiverr.com/ig_priyanshu).
 
 <img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Application Security & LLM Security Researcher, Patchstack · HackerOne · Bugcrowd" width="100%"/>
+
+---
+
+## START HERE
+
+**What I do** — application security and LLM security: penetration testing, vulnerability research, and the open-source tools that come out of that work.
+
+**Strongest proof — all of it checkable:**
+- An upstream fix merged into someone else's production codebase: the IPv6 rate-limit bucketing fix in [xerj-org/xerj#2872](https://github.com/xerj-org/xerj/pull/2872)
+- 6 of 6 pull requests I have opened in other people's repositories merged — and two external contributors' PRs merged into my own tools
+- Responsible disclosures, written up with scope, method, impact and remediation: [security-research](https://github.com/gravion-ux/security-research)
+
+**Three doors in:**
+- **Security tools** — the six flagships below: wp-cve-hunter, llm-redteam-kit, mcp-shield, jwt-auditor, gravion-ai, aegis
+- **Research** — [security-research](https://github.com/gravion-ux/security-research): sanitised disclosure write-ups
+- **Apps** — [TaskForge](https://github.com/gravion-ux/taskforge) (MERN team task manager) · [ChatSphere](https://github.com/gravion-ux/chatsphere) (real-time chat) · [ExpenseMate](https://github.com/gravion-ux/expensemate) (React Native expense tracker) — each built end-to-end: API, UI, tests, CI
 
 ---
 
@@ -116,9 +132,9 @@ Short version of four pieces of work — the problem, what I did, and the outcom
 
 ## REAL WORK. REAL IMPACT.
 
-| 50 | 932+ | 03 |
+| 50 | 908 | 03 |
 | --- | --- | --- |
-| **PUBLIC REPOSITORIES** — every original tool MIT licensed | **MEASURED TESTS** — across the eight flagship codebases | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
+| **PUBLIC REPOSITORIES** — every original tool MIT licensed | **MEASURED TESTS** — across the six flagship codebases (Nov 2026 audit) | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
 
 - **Upstream contributor** — merged PRs into [xerj-org/xerj](https://github.com/xerj-org/xerj), open-source security tooling.
 - **Bug bounty researcher** — WordPress ecosystem; every finding lab-verified and deduped before it is reported.
@@ -152,11 +168,7 @@ Responsible reporting       █████████████████�
 
 Everything here is MIT licensed — every original tool, each with its own measured test suite. If one saved you time in your own lab, a contribution keeps the suites green and the releases coming. Sponsors also keep the work independent: see the [support page on my portfolio](https://gravion-ux.github.io/portfolio/) for other ways to contribute.
 
-**Monthly** — Supporter $5 · Backer $10 · Sponsor $25 · Pro Sponsor $50 · Security Partner $100 · Anchor $500 · Executive $1,000
-
-**One-time** — One-time Backer $25 · One-time Sponsor $50 · Fix a bug $50 · Fund a feature $250 · Fund a release $1,000 · Fund a roadmap quarter $2,500
-
-Monthly tiers from $5, one-time tiers from $25. Custom amounts start at $5, with $25 recommended.
+Monthly tiers from $5, one-time tiers from $25 — the full tier list lives on the [Sponsors page](https://github.com/sponsors/gravion-ux).
 
 ⭐ [Sponsor the build on GitHub](https://github.com/sponsors/gravion-ux)
 
