@@ -10,6 +10,8 @@ Bug bounty hunter working web, API and WordPress flaws — IDOR, broken access c
 
 🌐 [Portfolio](https://gravion-ux.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) · 🛠️ [Fiverr](https://www.fiverr.com/ig_priyanshu) · ⭐ [GitHub Sponsors](https://github.com/sponsors/gravion-ux)
 
+> **Open to opportunities** — Penetration Tester / Application Security / Security Analyst roles (remote preferred, Delhi NCR) and freelance security-testing engagements: web, API, WordPress and AI-chatbot assessments. Reach me on [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) or via [Fiverr](https://www.fiverr.com/ig_priyanshu).
+
 <img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Application Security & LLM Security Researcher, Patchstack · HackerOne · Bugcrowd" width="100%"/>
 
 ---
@@ -84,7 +86,7 @@ Six projects carry the portfolio. Each one exists because a real assessment kept
 
 ## REAL WORK. REAL IMPACT.
 
-| 44 | 932+ | 03 |
+| 46 | 932+ | 03 |
 | --- | --- | --- |
 | **PUBLIC REPOSITORIES** — every original tool MIT licensed | **MEASURED TESTS** — across the eight flagship codebases | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
 
