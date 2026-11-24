@@ -116,7 +116,7 @@ Short version of four pieces of work — the problem, what I did, and the outcom
 
 ## REAL WORK. REAL IMPACT.
 
-| 49 | 932+ | 03 |
+| 50 | 932+ | 03 |
 | --- | --- | --- |
 | **PUBLIC REPOSITORIES** — every original tool MIT licensed | **MEASURED TESTS** — across the eight flagship codebases | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
 
