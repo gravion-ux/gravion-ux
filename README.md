@@ -172,7 +172,7 @@ Monthly tiers from $5, one-time tiers from $25 — the full tier list lives on t
 
 Contributions are credited here by name. The list is empty until the first sponsorship lands, and it grows from there.
 
-Name placement starts at the $5 a month Supporter tier or the $25 one-time Backer tier for the Supporters section of this README, and at the $25 a month Sponsor tier or the $50 one-time Sponsor tier for the sponsor sections of the flagship repository READMEs.
+Name placement starts at the $5 a month Supporter tier — and every monthly tier above it — or the $25 one-time Backer tier for the Supporters section of this README, and at the $25 a month Sponsor tier or the $50 one-time Sponsor tier for the sponsor sections of the flagship repository READMEs.
 
 ---
 
