@@ -186,5 +186,6 @@ Name placement starts at the $5 a month Supporter tier — and every monthly tie
 | ✉️ Email | priyanshukumarthakur937@gmail.com |
 | 💼 LinkedIn | [priyanshukumarthakur](https://www.linkedin.com/in/priyanshukumarthakur) |
 | 💻 GitHub | [@gravion-ux](https://github.com/gravion-ux) |
+| 💳 Support | [NOWPayments](https://nowpayments.io/payment/?iid=4381731355) · [GitHub Sponsors](https://github.com/sponsors/gravion-ux) |
 
 *Proof, not promises.*
