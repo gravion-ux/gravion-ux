@@ -10,7 +10,7 @@ I hunt vulnerabilities in web applications, APIs and WordPress — business logi
 
 🌐 [Portfolio](https://gravion-ux.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) · 🛠️ [Fiverr](https://www.fiverr.com/ig_priyanshu) · ⭐ [GitHub Sponsors](https://github.com/sponsors/gravion-ux)
 
-<img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Security Researcher, 40 open-source projects, 3,513 tests, Patchstack · HackerOne · Bugcrowd" width="100%"/>
+<img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Security Researcher, 46 open-source projects, 4,010 tests, Patchstack · HackerOne · Bugcrowd" width="100%"/>
 
 ---
 
@@ -80,9 +80,9 @@ scope → read → test → report
 
 ## REAL WORK. REAL IMPACT.
 
-| 40 | 3,513 | 03 |
+| 46 | 4,010 | 03 |
 | --- | --- | --- |
-| **OPEN-SOURCE PROJECTS** — all MIT licensed | **MEASURED TESTS** — across 39 repositories | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
+| **OPEN-SOURCE PROJECTS** — 45 of 46 MIT licensed | **MEASURED TESTS** — across 44 repositories | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
 
 - **Upstream contributor** — merged PRs into [xerj-org/xerj](https://github.com/xerj-org/xerj), open-source security tooling.
 - **Bug bounty researcher** — WordPress ecosystem; every finding lab-verified and deduped before it is reported.
@@ -114,7 +114,7 @@ Responsible reporting       █████████████████�
 
 ## 04 / SUPPORT THE BUILD
 
-Everything here is MIT licensed — 38 of 38 tools, each with its own measured test suite. If one saved you time in your own lab, a contribution keeps the suites green and the releases coming.
+46 open-source projects — 45 of them MIT licensed, 44 with their own measured test suite. If one saved you time in your own lab, a contribution keeps the suites green and the releases coming.
 
 **Monthly** — Supporter $5 · Backer $10 · Sponsor $25 · Pro Sponsor $50 · Security Partner $100 · Anchor $500 · Executive $1,000
 
