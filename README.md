@@ -12,7 +12,7 @@ Bug bounty hunter working web, API and WordPress flaws — IDOR, broken access c
 
 > **Open to opportunities** — Penetration Tester / Application Security / Security Analyst roles (remote preferred, Delhi NCR) and freelance security-testing engagements: web, API, WordPress and AI-chatbot assessments. Reach me on [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) or via [Fiverr](https://www.fiverr.com/ig_priyanshu).
 
-<img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Application Security & LLM Security Researcher, 55 open-source projects, 4,010 tests, Patchstack · HackerOne · Bugcrowd" width="100%"/>
+<img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Application Security & LLM Security Researcher, 59 open-source projects, 4,010 tests, Patchstack · HackerOne · Bugcrowd" width="100%"/>
 
 ---
 
@@ -130,9 +130,9 @@ Short version of four pieces of work — the problem, what I did, and the outcom
 
 ## REAL WORK. REAL IMPACT.
 
-| 55 | 4,010 | 03 |
+| 59 | 4,010 | 03 |
 | --- | --- | --- |
-| **OPEN-SOURCE PROJECTS** — 50 of 55 MIT licensed | **MEASURED TESTS** — across 44 repositories | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
+| **OPEN-SOURCE PROJECTS** — 54 of 59 MIT licensed | **MEASURED TESTS** — across 44 repositories | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
 - **Upstream contributor** — merged PRs into [xerj-org/xerj](https://github.com/xerj-org/xerj), open-source security tooling.
 - **Bug bounty researcher** — WordPress ecosystem; every finding lab-verified and deduped before it is reported.
 
@@ -163,7 +163,7 @@ Responsible reporting       █████████████████�
 
 ## 04 / SUPPORT THE BUILD
 
-55 open-source projects — 45 of them MIT licensed, 44 with their own measured test suite. If one saved you time in your own lab, a contribution keeps the suites green and the releases coming. Sponsors also keep the work independent: see the [support page on my portfolio](https://gravion-ux.github.io/portfolio/support.html) for other ways to contribute.
+59 open-source projects — 45 of them MIT licensed, 44 with their own measured test suite. If one saved you time in your own lab, a contribution keeps the suites green and the releases coming. Sponsors also keep the work independent: see the [support page on my portfolio](https://gravion-ux.github.io/portfolio/support.html) for other ways to contribute.
 Monthly tiers from $5, one-time tiers from $25 — the full tier list lives on the [Sponsors page](https://github.com/sponsors/gravion-ux).
 
 ⭐ [Sponsor the build on GitHub](https://github.com/sponsors/gravion-ux)
