@@ -132,7 +132,7 @@ Short version of four pieces of work — the problem, what I did, and the outcom
 
 | 59 | 4,246 | 03 |
 | --- | --- | --- |
-| **OPEN-SOURCE PROJECTS** — 57 of 59 MIT licensed | **MEASURED TESTS** — across 56 repositories | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
+| **OPEN-SOURCE PROJECTS** — 58 of 60 MIT licensed | **MEASURED TESTS** — across 56 repositories | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
 - **Upstream contributor** — merged PRs into [xerj-org/xerj](https://github.com/xerj-org/xerj), open-source security tooling.
 - **Bug bounty researcher** — WordPress ecosystem; every finding lab-verified and deduped before it is reported.
 
@@ -163,7 +163,7 @@ Responsible reporting       █████████████████�
 
 ## 04 / SUPPORT THE BUILD
 
-59 open-source projects — 57 of them MIT licensed, 56 with their own measured test suite. If one saved you time in your own lab, a contribution keeps the suites green and the releases coming. Sponsors also keep the work independent: see the [support page on my portfolio](https://gravion-ux.github.io/portfolio/support.html) for other ways to contribute.
+59 open-source projects — 58 of them MIT licensed, 56 with their own measured test suite. If one saved you time in your own lab, a contribution keeps the suites green and the releases coming. Sponsors also keep the work independent: see the [support page on my portfolio](https://gravion-ux.github.io/portfolio/support.html) for other ways to contribute.
 Monthly tiers from $5, one-time tiers from $25 — the full tier list lives on the [Sponsors page](https://github.com/sponsors/gravion-ux).
 
 ⭐ [Sponsor the build on GitHub](https://github.com/sponsors/gravion-ux)
