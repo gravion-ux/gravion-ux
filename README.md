@@ -152,6 +152,12 @@ Responsible reporting       █████████████████�
 
 ## GITHUB AT A GLANCE
 
+| 64 | 60 | 58 | 128 |
+| --- | --- | --- | --- |
+| **PUBLIC REPOSITORIES** | **OPEN-SOURCE PROJECTS** — all MIT licensed, each with its own CI-verified test suite | **SECURITY TOOLS** | **MERGED PULL REQUESTS** — Pull Shark Silver |
+
+9 Red Team Leaders certifications (CCPP · CCEP · CHTAP · CRTOM · CTIGA · COWA · CLLMSP · CNSF · CLLMSE). Figures verified live on 27 Nov 2026.
+
 <img src="https://github-readme-stats.vercel.app/api?username=gravion-ux&show_icons=true&bg_color=0A0E1A&title_color=F85149&text_color=C9D1D9&icon_color=F85149&ring_color=F85149&border_color=30363D" alt="GitHub stats for @gravion-ux"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gravion-ux&layout=compact&bg_color=0A0E1A&title_color=F85149&text_color=C9D1D9&border_color=30363D" alt="Top languages for @gravion-ux"/>
