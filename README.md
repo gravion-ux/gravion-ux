@@ -50,7 +50,7 @@ scope → read → test → report
 
 ### 02 / LIFE OUTSIDE THE COMMIT
 
-<img src="avatar.png" alt="Priyanshu Kumar Thakur" width="90"/>
+<img src="portrait-life.jpg" alt="Priyanshu Kumar Thakur" width="90"/>
 
 1. **AI cinematic video tutorials** — voiceover-driven tutorials; every tool taught step by step.
 2. **Building GRAVION AI** — a modular AI platform startups build on, made piece by piece.
@@ -158,11 +158,13 @@ Responsible reporting       █████████████████�
 
 9 Red Team Leaders certifications (CCPP · CCEP · CHTAP · CRTOM · CTIGA · COWA · CLLMSP · CNSF · CLLMSE). Figures verified live on 27 Nov 2026.
 
-<img src="https://github-readme-stats.vercel.app/api?username=gravion-ux&show_icons=true&bg_color=0A0E1A&title_color=F85149&text_color=C9D1D9&icon_color=F85149&ring_color=F85149&border_color=30363D" alt="GitHub stats for @gravion-ux"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gravion-ux&show_icons=true&include_all_commits=true&count_private=true&bg_color=0A0E1A&title_color=F85149&text_color=C9D1D9&icon_color=F85149&ring_color=F85149&border_color=30363D" alt="GitHub stats for @gravion-ux"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gravion-ux&layout=compact&bg_color=0A0E1A&title_color=F85149&text_color=C9D1D9&border_color=30363D" alt="Top languages for @gravion-ux"/>
 
 <img src="https://streak-stats.demolab.com/?user=gravion-ux&background=0A0E1A&stroke=30363D&ring=F85149&fire=F85149&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85149&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak stats for @gravion-ux"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gravion-ux&bg_color=0A0E1A&color=C9D1D9&line=F85149&point=F85149&area=true&area_color=F85149&hide_border=true" alt="Contribution activity graph for @gravion-ux"/>
 
 <img src="https://raw.githubusercontent.com/gravion-ux/gravion-ux/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 
