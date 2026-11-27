@@ -158,6 +158,8 @@ Responsible reporting       █████████████████�
 
 9 Red Team Leaders certifications (CCPP · CCEP · CHTAP · CRTOM · CTIGA · COWA · CLLMSP · CNSF · CLLMSE). Figures verified live on 27 Nov 2026.
 
+<img src="activity-radar.svg" alt="Activity overview radar chart for @gravion-ux" width="420"/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=gravion-ux&show_icons=true&include_all_commits=true&count_private=true&bg_color=0A0E1A&title_color=F85149&text_color=C9D1D9&icon_color=F85149&ring_color=F85149&border_color=30363D" alt="GitHub stats for @gravion-ux"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gravion-ux&layout=compact&bg_color=0A0E1A&title_color=F85149&text_color=C9D1D9&border_color=30363D" alt="Top languages for @gravion-ux"/>
