@@ -12,7 +12,7 @@ Bug bounty hunter working web, API and WordPress flaws — IDOR, broken access c
 
 > **Open to opportunities** — Penetration Tester / Application Security / Security Analyst roles (remote preferred, Delhi NCR) and freelance security-testing engagements: web, API, WordPress and AI-chatbot assessments. Reach me on [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) or via [Fiverr](https://www.fiverr.com/ig_priyanshu).
 
-<img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Security Researcher & Exploit Developer, 60 open-source projects, 4,866 tests, Patchstack · HackerOne · Bugcrowd" width="100%"/>
+<img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Security Researcher & Exploit Developer, 60 open-source projects, 5,219 tests, Patchstack · HackerOne · Bugcrowd" width="100%"/>
 
 ---
 
@@ -119,7 +119,7 @@ Short version of four pieces of work — the problem, what I did, and the outcom
 
 **Problem.** Small teams shipping AI products bolt licensing and tiering on last, or never — and it shows up later as a rewrite.
 **What I built.** [gravion-ai](https://github.com/gravion-ux/gravion-ai) — a modular platform (chat, code, image, music, video) with cryptographic licensing and tiering built into the core rather than layered over it.
-**Outcome.** v0.11.0 shipped on 24 Nov 2026, a day ahead of its 25 Nov deadline, with the full suite green: 945 tests, 940 passing, 5 skipped, 0 failing.
+**Outcome.** v0.11.0 shipped on 24 Nov 2026, a day ahead of its 25 Nov deadline, with the full suite green: 1,173 tests, 1,168 passing, 5 skipped, 0 failing.
 
 ### 4. Upstream fix — IPv6 rate-limit bucketing in xerj
 
@@ -130,13 +130,13 @@ Short version of four pieces of work — the problem, what I did, and the outcom
 
 ## REAL WORK. REAL IMPACT.
 
-| 60 | 4,866 | 03 |
+| 60 | 5,219 | 03 |
 | --- | --- | --- |
 | **OPEN-SOURCE PROJECTS** — all 60 MIT licensed | **MEASURED TESTS** — across 60 repositories | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
 - **Upstream contributor** — merged PRs into [xerj-org/xerj](https://github.com/xerj-org/xerj), open-source security tooling.
 - **Completed training** — 5 Red Team Leaders programmes listed under Courses on my LinkedIn profile: CCPP · CCEP · CHTAP · CRTOM · CTIGA. These are completed course work, not certifications — my LinkedIn certifications section is empty.
 - **Bug bounty researcher** — WordPress ecosystem; every finding lab-verified and deduped before it is reported.
-- **Verified platform ranks (27 Nov 2026)** — Patchstack November #160 (3.71 XP) · YesWeHack #9,268 (99 points) · Wordfence all-time #4,209. HackerOne, Bugcrowd, Intigriti and Open Bug Bounty accounts are active; no public rank is claimed where the platform shows none.
+- **Bug bounty platforms** — Patchstack, HackerOne and Bugcrowd. Leaderboard positions change and none could be verified from a public page, so no rank is published here.
 
 **CORE CRAFT**
 
@@ -153,11 +153,11 @@ Responsible reporting       █████████████████�
 
 ## GITHUB AT A GLANCE
 
-| 64 | 60 | 4,866 | 128 |
+| 64 | 60 | 5,219 | 131 |
 | --- | --- | --- | --- |
 | **PUBLIC REPOSITORIES** | **OPEN-SOURCE PROJECTS** — all MIT licensed | **MEASURED TESTS** | **MERGED PULL REQUESTS** — Pull Shark Silver |
 
-60 open-source projects, 4,866 measured tests across 60 repositories, all 60 MIT licensed. Completed training: 5 Red Team Leaders programmes listed under Courses on my LinkedIn profile (CCPP · CCEP · CHTAP · CRTOM · CTIGA) — completed course work, not certifications. Figures verified live on 27 Nov 2026.
+60 open-source projects, 5,219 measured tests across 60 repositories, all 60 MIT licensed. Completed training: 5 Red Team Leaders programmes listed under Courses on my LinkedIn profile (CCPP · CCEP · CHTAP · CRTOM · CTIGA) — completed course work, not certifications. Figures verified live on 27 Nov 2026.
 
 **Machine-checkable status:** [PORTFOLIO_STATUS.md](PORTFOLIO_STATUS.md) lists every public repository with its status label, test evidence, CI state, latest release, license, and last push, generated from GitHub API data.
 
