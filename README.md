@@ -136,6 +136,7 @@ Short version of four pieces of work — the problem, what I did, and the outcom
 - **Upstream contributor** — merged PRs into [xerj-org/xerj](https://github.com/xerj-org/xerj), open-source security tooling.
 - **Completed training** — 5 Red Team Leaders programmes listed under Courses on my LinkedIn profile: CCPP · CCEP · CHTAP · CRTOM · CTIGA. These are completed course work, not certifications — my LinkedIn certifications section is empty.
 - **Bug bounty researcher** — WordPress ecosystem; every finding lab-verified and deduped before it is reported.
+- **Verified platform ranks (27 Nov 2026)** — Patchstack November #160 (3.71 XP) · YesWeHack #9,268 (99 points) · Wordfence all-time #4,209. HackerOne, Bugcrowd, Intigriti and Open Bug Bounty accounts are active; no public rank is claimed where the platform shows none.
 
 **CORE CRAFT**
 
@@ -157,6 +158,8 @@ Responsible reporting       █████████████████�
 | **PUBLIC REPOSITORIES** | **OPEN-SOURCE PROJECTS** — all MIT licensed | **MEASURED TESTS** | **MERGED PULL REQUESTS** — Pull Shark Silver |
 
 60 open-source projects, 4,866 measured tests across 60 repositories, all 60 MIT licensed. Completed training: 5 Red Team Leaders programmes listed under Courses on my LinkedIn profile (CCPP · CCEP · CHTAP · CRTOM · CTIGA) — completed course work, not certifications. Figures verified live on 27 Nov 2026.
+
+**Machine-checkable status:** [PORTFOLIO_STATUS.md](PORTFOLIO_STATUS.md) lists every public repository with its status label, test evidence, CI state, latest release, license, and last push, generated from GitHub API data.
 
 <img src="https://github-readme-stats.vercel.app/api?username=gravion-ux&show_icons=true&bg_color=0A0E1A&title_color=F85149&text_color=C9D1D9&icon_color=F85149&ring_color=F85149&border_color=30363D" alt="GitHub stats for @gravion-ux"/>
 
