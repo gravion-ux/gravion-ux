@@ -1,6 +1,6 @@
 # Portfolio Status
 
-Generated from live GitHub API data on 2026-11-27 13:29 UTC. This page is the machine-checkable companion to the profile README: repository status, test evidence, CI state, releases, licenses, and last activity are read from GitHub rather than typed from memory.
+Generated from live GitHub API data on 2026-11-27 13:41 UTC. This page is the machine-checkable companion to the profile README: repository status, test evidence, CI state, releases, licenses, and last activity are read from GitHub rather than typed from memory.
 
 ## How to read this page
 
@@ -49,7 +49,7 @@ Generated from live GitHub API data on 2026-11-27 13:29 UTC. This page is the ma
 | [gravion-hunter](https://github.com/gravion-ux/gravion-hunter) | Experimental | CI workflow present | CI: success | v1.0.0 | MIT | 2026-11-26 |
 | [gravion-pets](https://github.com/gravion-ux/gravion-pets) | Experimental | CI workflow present | CI: success | v0.6.0 | MIT | 2026-11-26 |
 | [gravion-trainner](https://github.com/gravion-ux/gravion-trainner) | Experimental | CI workflow present | CI: success | v1.0.0 | MIT | 2026-11-26 |
-| [gravion-ux](https://github.com/gravion-ux/gravion-ux) | Active | CI workflow present | Generate contribution snake: success | — | MIT | 2026-11-27 |
+| [gravion-ux](https://github.com/gravion-ux/gravion-ux) | Active | CI workflow present | Dependabot Updates: success | — | MIT | 2026-11-27 |
 | [Her--Him](https://github.com/gravion-ux/Her--Him) | Experimental | CI workflow present | CI: success | v1.0.0 | MIT | 2026-11-25 |
 | [iamosiac](https://github.com/gravion-ux/iamosiac) | Experimental | CI workflow present | CI: success | v1.0.0 | MIT | 2026-11-25 |
 | [llm-security-bot](https://github.com/gravion-ux/llm-security-bot) | Experimental | CI workflow present | CI: success | v1.0.0 | MIT | 2026-11-25 |
@@ -61,12 +61,12 @@ Generated from live GitHub API data on 2026-11-27 13:29 UTC. This page is the ma
 | [opsledger](https://github.com/gravion-ux/opsledger) | Experimental | CI workflow present | CI: success | v1.0.0 | MIT | 2026-11-25 |
 | [osint-footprint-checker](https://github.com/gravion-ux/osint-footprint-checker) | Experimental | CI workflow present | CI: success | — | MIT | 2026-11-26 |
 | [pe-import-lens](https://github.com/gravion-ux/pe-import-lens) | Experimental | CI workflow present | CI: success | — | MIT | 2026-11-26 |
-| [portfolio](https://github.com/gravion-ux/portfolio) | Active | CI workflow present | Deploy portfolio site to GitHub Pages: success | — | MIT | 2026-11-27 |
+| [portfolio](https://github.com/gravion-ux/portfolio) | Active | CI workflow present | CodeQL: success | — | MIT | 2026-11-27 |
 | [preference-data-doctor](https://github.com/gravion-ux/preference-data-doctor) | Experimental | CI workflow present | CI: success | v1.0.0 | MIT | 2026-11-26 |
 | [privacyflow](https://github.com/gravion-ux/privacyflow) | Experimental | CI workflow present | CI: success | v1.0.0 | MIT | 2026-11-26 |
 | [quanta-sentry](https://github.com/gravion-ux/quanta-sentry) | Experimental | CI workflow present | CI: success | v1.0.0 | MIT | 2026-11-25 |
 | [rasgulla-ai](https://github.com/gravion-ux/rasgulla-ai) | Experimental | CI workflow present | CI: success | v1.0.0 | MIT | 2026-11-27 |
-| [redteamlabs](https://github.com/gravion-ux/redteamlabs) | Experimental | CI workflow present | CI: success | — | MIT | 2026-11-27 |
+| [redteamlabs](https://github.com/gravion-ux/redteamlabs) | Experimental | — | — | — | MIT | 2026-11-27 |
 | [rulebench](https://github.com/gravion-ux/rulebench) | Experimental | CI workflow present | CI: success | v1.0.0 | MIT | 2026-11-25 |
 | [secret-sniper](https://github.com/gravion-ux/secret-sniper) | Experimental | CI workflow present | CI: success | — | MIT | 2026-11-26 |
 | [security-automation-scripts](https://github.com/gravion-ux/security-automation-scripts) | Experimental | CI workflow present | CI: success | v1.0.0 | MIT | 2026-11-25 |
