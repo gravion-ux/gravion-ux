@@ -12,7 +12,7 @@ Bug bounty hunter working web, API and WordPress flaws — IDOR, broken access c
 
 > **Open to opportunities** — Penetration Tester / Application Security / Security Analyst roles (remote preferred, Delhi NCR) and freelance security-testing engagements: web, API, WordPress and AI-chatbot assessments. Reach me on [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) or via [Fiverr](https://www.fiverr.com/ig_priyanshu).
 
-<img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Security Researcher & Exploit Developer, 58 security tools, 60 open-source projects, 9 certifications, Patchstack · HackerOne · Bugcrowd" width="100%"/>
+<img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Security Researcher & Exploit Developer, 58 security tools, 60 open-source projects, 9 certifications, Patchstack · HackerOne · Bugcrowd · YesWeHack · Intigriti · Wordfence · Open Bug Bounty" width="100%"/>
 
 ---
 
@@ -119,7 +119,7 @@ Short version of four pieces of work — the problem, what I did, and the outcom
 
 **Problem.** Small teams shipping AI products bolt licensing and tiering on last, or never — and it shows up later as a rewrite.
 **What I built.** [gravion-ai](https://github.com/gravion-ux/gravion-ai) — a modular platform (chat, code, image, music, video) with cryptographic licensing and tiering built into the core rather than layered over it.
-**Outcome.** v0.11.0 shipped on 24 Nov 2026, a day ahead of its 25 Nov deadline, with the full suite green: 385 tests, 380 passing, 5 skipped, 0 failing.
+**Outcome.** v0.11.0 shipped on 24 Nov 2026, a day ahead of its 25 Nov deadline. The suite has since grown to more than 1,000 tests and remains green in CI.
 
 ### 4. Upstream fix — IPv6 rate-limit bucketing in xerj
 
@@ -130,12 +130,13 @@ Short version of four pieces of work — the problem, what I did, and the outcom
 
 ## REAL WORK. REAL IMPACT.
 
-| 60 | 60 | 03 |
+| 60 | 60 | 07 |
 | --- | --- | --- |
-| **OPEN-SOURCE PROJECTS** — all 60 MIT licensed | **TEST SUITES** — one per project, CI-verified | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
+| **OPEN-SOURCE PROJECTS** — all 60 MIT licensed | **TEST SUITES** — one per project, CI-verified | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd + YesWeHack + Intigriti + Wordfence + Open Bug Bounty |
 - **Upstream contributor** — merged PRs into [xerj-org/xerj](https://github.com/xerj-org/xerj), open-source security tooling.
 - **Certified** — 9 Red Team Leaders certifications: CCPP · CCEP · CHTAP · CRTOM · CTIGA · COWA · CLLMSP · CNSF · CLLMSE.
 - **Bug bounty researcher** — WordPress ecosystem; every finding lab-verified and deduped before it is reported.
+- **Verified platform ranks (27 Nov 2026)** — Patchstack November #160 (3.71 XP) · YesWeHack #9,268 (99 points) · Wordfence all-time #4,209. HackerOne, Bugcrowd, Intigriti and Open Bug Bounty accounts are active; no public rank is claimed where the platform shows none.
 
 **CORE CRAFT**
 
