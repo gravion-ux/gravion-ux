@@ -7,6 +7,7 @@ Generated from live GitHub API data on 2026-11-27 13:41 UTC. This page is the ma
 - **Status** uses three labels: `Active` (maintained flagship or current product), `Experimental` (usable but pre-1.0 or with unverified integrations), and `Maintenance` (stable or narrow-scope work receiving fixes and data updates). Archived forks are marked `Archived fork`.
 - **Tests** shows exact verified counts for the six flagships from local full-suite runs on 2026-11-27. For other repositories it shows whether GitHub reports a CI workflow; exact test counts are not claimed where they were not re-run in this pass.
 - **CI** is the latest completed run on the default branch at generation time. A dash means GitHub returned no completed run in the API response used for this table.
+- **Counts** use an explicit denominator: 64 public repositories = 60 open-source projects + this profile repository + the portfolio site + 2 archived forks. The security-tools count is a classification of the 60 projects, not a field GitHub's API can verify by itself.
 
 ## Flagship evidence
 
