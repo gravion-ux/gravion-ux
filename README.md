@@ -12,7 +12,7 @@ Bug bounty hunter working web, API and WordPress flaws — IDOR, broken access c
 
 > **Open to opportunities** — Penetration Tester / Application Security / Security Analyst roles (remote preferred, Delhi NCR) and freelance security-testing engagements: web, API, WordPress and AI-chatbot assessments. Reach me on [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) or via [Fiverr](https://www.fiverr.com/ig_priyanshu).
 
-<img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Security Researcher & Exploit Developer, 58 security tools, 60 open-source projects, 9 certifications, Patchstack · HackerOne · Bugcrowd" width="100%"/>
+<img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Security Researcher & Exploit Developer, 60 open-source projects, 4,866 tests, Patchstack · HackerOne · Bugcrowd" width="100%"/>
 
 ---
 
@@ -119,7 +119,7 @@ Short version of four pieces of work — the problem, what I did, and the outcom
 
 **Problem.** Small teams shipping AI products bolt licensing and tiering on last, or never — and it shows up later as a rewrite.
 **What I built.** [gravion-ai](https://github.com/gravion-ux/gravion-ai) — a modular platform (chat, code, image, music, video) with cryptographic licensing and tiering built into the core rather than layered over it.
-**Outcome.** v0.11.0 shipped on 24 Nov 2026, a day ahead of its 25 Nov deadline, with the full suite green: 385 tests, 380 passing, 5 skipped, 0 failing.
+**Outcome.** v0.11.0 shipped on 24 Nov 2026, a day ahead of its 25 Nov deadline, with the full suite green: 945 tests, 940 passing, 5 skipped, 0 failing.
 
 ### 4. Upstream fix — IPv6 rate-limit bucketing in xerj
 
@@ -130,11 +130,11 @@ Short version of four pieces of work — the problem, what I did, and the outcom
 
 ## REAL WORK. REAL IMPACT.
 
-| 60 | 60 | 03 |
+| 60 | 4,866 | 03 |
 | --- | --- | --- |
-| **OPEN-SOURCE PROJECTS** — all 60 MIT licensed | **TEST SUITES** — one per project, CI-verified | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
+| **OPEN-SOURCE PROJECTS** — all 60 MIT licensed | **MEASURED TESTS** — across 60 repositories | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
 - **Upstream contributor** — merged PRs into [xerj-org/xerj](https://github.com/xerj-org/xerj), open-source security tooling.
-- **Certified** — 9 Red Team Leaders certifications: CCPP · CCEP · CHTAP · CRTOM · CTIGA · COWA · CLLMSP · CNSF · CLLMSE.
+- **Completed training** — 5 Red Team Leaders programmes listed under Courses on my LinkedIn profile: CCPP · CCEP · CHTAP · CRTOM · CTIGA. These are completed course work, not certifications — my LinkedIn certifications section is empty.
 - **Bug bounty researcher** — WordPress ecosystem; every finding lab-verified and deduped before it is reported.
 
 **CORE CRAFT**
@@ -152,11 +152,11 @@ Responsible reporting       █████████████████�
 
 ## GITHUB AT A GLANCE
 
-| 64 | 60 | 58 | 128 |
+| 64 | 60 | 4,866 | 128 |
 | --- | --- | --- | --- |
-| **PUBLIC REPOSITORIES** | **OPEN-SOURCE PROJECTS** — all MIT licensed, each with its own CI-verified test suite | **SECURITY TOOLS** | **MERGED PULL REQUESTS** — Pull Shark Silver |
+| **PUBLIC REPOSITORIES** | **OPEN-SOURCE PROJECTS** — all MIT licensed | **MEASURED TESTS** | **MERGED PULL REQUESTS** — Pull Shark Silver |
 
-9 Red Team Leaders certifications (CCPP · CCEP · CHTAP · CRTOM · CTIGA · COWA · CLLMSP · CNSF · CLLMSE). Figures verified live on 27 Nov 2026.
+60 open-source projects, 4,866 measured tests across 60 repositories, all 60 MIT licensed. Completed training: 5 Red Team Leaders programmes listed under Courses on my LinkedIn profile (CCPP · CCEP · CHTAP · CRTOM · CTIGA) — completed course work, not certifications. Figures verified live on 27 Nov 2026.
 
 <img src="https://github-readme-stats.vercel.app/api?username=gravion-ux&show_icons=true&bg_color=0A0E1A&title_color=F85149&text_color=C9D1D9&icon_color=F85149&ring_color=F85149&border_color=30363D" alt="GitHub stats for @gravion-ux"/>
 
@@ -170,7 +170,7 @@ Responsible reporting       █████████████████�
 
 ## 04 / SUPPORT THE BUILD
 
-60 open-source projects — all 60 MIT licensed, each with its own test suite. If one saved you time in your own lab, a contribution keeps the suites green and the releases coming. Sponsors also keep the work independent: see the [support page on my portfolio](https://gravion-ux.github.io/portfolio/support.html) for other ways to contribute.
+60 open-source projects — all 60 MIT licensed, 60 with their own measured test suite. If one saved you time in your own lab, a contribution keeps the suites green and the releases coming. Sponsors also keep the work independent: see the [support page on my portfolio](https://gravion-ux.github.io/portfolio/support.html) for other ways to contribute.
 Monthly tiers from $5, one-time tiers from $25 — the full tier list lives on the [Sponsors page](https://github.com/sponsors/gravion-ux).
 
 ⭐ [Sponsor the build on GitHub](https://github.com/sponsors/gravion-ux)
