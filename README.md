@@ -26,7 +26,7 @@ Bug bounty hunter working web, API and WordPress flaws — IDOR, broken access c
 - Responsible disclosures, written up with scope, method, impact and remediation: [security-research](https://github.com/gravion-ux/security-research)
 
 **Three doors in:**
-- **Security tools** — the six flagships below: wp-cve-hunter, llm-redteam-kit, mcp-shield, jwt-auditor, gravion-ai, aegis
+- **Security tools** — the five flagship builds below: gravion-ai, wp-cve-hunter, llm-redteam-kit, mcp-shield, jwt-auditor
 - **Research** — [security-research](https://github.com/gravion-ux/security-research): sanitised disclosure write-ups
 - **Apps** — [TaskForge](https://github.com/gravion-ux/taskforge) (MERN team task manager) · [ChatSphere](https://github.com/gravion-ux/chatsphere) (real-time chat) · [ExpenseMate](https://github.com/gravion-ux/expensemate) (React Native expense tracker) — each built end-to-end: API, UI, tests, CI
 ---
@@ -84,7 +84,7 @@ scope → read → test → report
 
 ## FLAGSHIP WORK
 
-Six projects carry the portfolio. Each one exists because a real assessment kept hitting the same problem.
+Five flagship builds carry the portfolio. Each one exists because a real assessment kept hitting the same problem.
 
 | Project | The problem it solves |
 | --- | --- |
@@ -93,7 +93,6 @@ Six projects carry the portfolio. Each one exists because a real assessment kept
 | [jwt-auditor](https://github.com/gravion-ux/jwt-auditor) | The JWT flaws behind real account takeovers — `alg=none`, weak secrets, key-injection headers — checked fully offline, with a scored report a team can act on. |
 | [wp-cve-hunter](https://github.com/gravion-ux/wp-cve-hunter) | WordPress owners can't tell which disclosed CVEs actually apply to their site — read-only fingerprinting matched against real vulnerability data, prioritised by CVSS. |
 | [gravion-ai](https://github.com/gravion-ux/gravion-ai) | Small teams shipping AI products bolt licensing on last, or never — a modular platform (chat, code, image, music, video) with cryptographic licensing and tiering built into the core. |
-| [aegis](https://github.com/gravion-ux/aegis) | Agentic testing drifts out of scope when limits live in prompts — a chief agent decomposes missions for specialist sub-agents and refuses out-of-scope work in code, with a tamper-evident audit log. |
 
 **How the toolkit fits together** — the tools form one pipeline. **Hunt:** fingerprint and probe the target (wp-cve-hunter, jwt-auditor, llm-redteam-kit, mcp-shield). **Verify:** reproduce each finding under enforced scope, with an audit trail, before believing it (gravion-harness, aegis). **Report:** every tool emits scored, prioritised, remediation-ready output by default — the same discipline my bounty reports follow. gravion-ai applies that discipline to building AI products instead of breaking them.
 
