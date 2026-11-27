@@ -50,7 +50,7 @@ scope → read → test → report
 
 ### 02 / LIFE OUTSIDE THE COMMIT
 
-<img src="avatar.png" alt="Priyanshu Kumar Thakur" width="90"/>
+<img src="portrait-life-v2.jpg" alt="Priyanshu Kumar Thakur" width="90"/>
 
 1. **AI cinematic video tutorials** — voiceover-driven tutorials; every tool taught step by step.
 2. **Building GRAVION AI** — a modular AI platform startups build on, made piece by piece.
