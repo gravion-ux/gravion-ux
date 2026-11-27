@@ -12,7 +12,7 @@ Bug bounty hunter working web, API and WordPress flaws — IDOR, broken access c
 
 > **Open to opportunities** — Penetration Tester / Application Security / Security Analyst roles (remote preferred, Delhi NCR) and freelance security-testing engagements: web, API, WordPress and AI-chatbot assessments. Reach me on [LinkedIn](https://www.linkedin.com/in/priyanshukumarthakur) or via [Fiverr](https://www.fiverr.com/ig_priyanshu).
 
-<img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Security Researcher & Exploit Developer, 60 open-source projects, 5,219 tests, Patchstack · HackerOne · Bugcrowd" width="100%"/>
+<img src="builder-pass-v2.png" alt="BUILDER PASS — Priyanshu Kumar Thakur, @gravion-ux, Security Researcher & Exploit Developer, 61 open-source projects, 5,232 tests, Patchstack · HackerOne · Bugcrowd" width="100%"/>
 
 ---
 
@@ -129,9 +129,9 @@ Short version of four pieces of work — the problem, what I did, and the outcom
 
 ## REAL WORK. REAL IMPACT.
 
-| 60 | 5,219 | 03 |
+| 61 | 5,232 | 03 |
 | --- | --- | --- |
-| **OPEN-SOURCE PROJECTS** — all 60 MIT licensed | **MEASURED TESTS** — across 60 repositories | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
+| **OPEN-SOURCE PROJECTS** — all 61 MIT licensed | **MEASURED TESTS** — across 61 repositories | **PLATFORMS** — Patchstack + HackerOne + Bugcrowd |
 - **Upstream contributor** — merged PRs into [xerj-org/xerj](https://github.com/xerj-org/xerj), open-source security tooling.
 - **Completed training** — 5 Red Team Leaders programmes listed under Courses on my LinkedIn profile: CCPP · CCEP · CHTAP · CRTOM · CTIGA. These are completed course work, not certifications — my LinkedIn certifications section is empty.
 - **Bug bounty researcher** — WordPress ecosystem; every finding lab-verified and deduped before it is reported.
@@ -152,11 +152,11 @@ Responsible reporting       █████████████████�
 
 ## GITHUB AT A GLANCE
 
-| 64 | 60 | 5,219 | 131 |
+| 65 | 61 | 5,232 | 131 |
 | --- | --- | --- | --- |
 | **PUBLIC REPOSITORIES** | **OPEN-SOURCE PROJECTS** — all MIT licensed | **MEASURED TESTS** | **MERGED PULL REQUESTS** — Pull Shark Silver |
 
-60 open-source projects, 5,219 measured tests across 60 repositories, all 60 MIT licensed. Completed training: 5 Red Team Leaders programmes listed under Courses on my LinkedIn profile (CCPP · CCEP · CHTAP · CRTOM · CTIGA) — completed course work, not certifications. Figures verified live on 27 Nov 2026.
+61 open-source projects, 5,232 measured tests across 61 repositories, all 61 MIT licensed. Completed training: 5 Red Team Leaders programmes listed under Courses on my LinkedIn profile (CCPP · CCEP · CHTAP · CRTOM · CTIGA) — completed course work, not certifications. Figures verified live on 27 Nov 2026.
 
 **Machine-checkable status:** [PORTFOLIO_STATUS.md](PORTFOLIO_STATUS.md) lists every public repository with its status label, test evidence, CI state, latest release, license, and last push, generated from GitHub API data.
 
@@ -172,7 +172,7 @@ Responsible reporting       █████████████████�
 
 ## 04 / SUPPORT THE BUILD
 
-60 open-source projects — all 60 MIT licensed, 60 with their own measured test suite. If one saved you time in your own lab, a contribution keeps the suites green and the releases coming. Sponsors also keep the work independent: see the [support page on my portfolio](https://gravion-ux.github.io/portfolio/support.html) for other ways to contribute.
+61 open-source projects — all 61 MIT licensed, 61 with their own measured test suite. If one saved you time in your own lab, a contribution keeps the suites green and the releases coming. Sponsors also keep the work independent: see the [support page on my portfolio](https://gravion-ux.github.io/portfolio/support.html) for other ways to contribute.
 Monthly tiers from $5, one-time tiers from $25 — the full tier list lives on the [Sponsors page](https://github.com/sponsors/gravion-ux).
 
 ⭐ [Sponsor the build on GitHub](https://github.com/sponsors/gravion-ux)
